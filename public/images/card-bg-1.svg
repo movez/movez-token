@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="926" height="428" viewBox="0 0 926 428">
+  <defs>
+    <filter id="Subtraction_2" x="103.916" y="80.5" width="329.103" height="273.865" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#fc4c02" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_13_12_Pro_Max_9">
+      <rect width="926" height="428"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_13_12_Pro_Max_9" data-name="iPhone 13, 12 Pro Max – 9" clip-path="url(#clip-iPhone_13_12_Pro_Max_9)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Subtraction_2)">
+      <path id="Subtraction_2-2" data-name="Subtraction 2" d="M-11674.475-219.134h-54.035l2.238-74.456,52.3-.051.018-2.359-.521,76.866Zm-206.766,0H-11935L-11866.869-427h53.209l24.627,111.1,62.215-111.1h53.758l-.6,88.291-51.105-.072h-.551l-68.8,119.646h-21.5l-28.791-119.646h-.551l-36.273,119.646Z" transform="translate(12073.06 537.5)" fill="none" stroke="#fc4c02" stroke-width="6" opacity="0.397"/>
+    </g>
+  </g>
+</svg>

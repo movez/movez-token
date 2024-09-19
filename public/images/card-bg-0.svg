@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="926" height="428" viewBox="0 0 926 428">
+  <defs>
+    <filter id="Path_1815" x="147.656" y="69.99" width="293.112" height="282.672" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#fc4c02" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-iPhone_13_12_Pro_Max_9">
+      <rect width="926" height="428"/>
+    </clipPath>
+  </defs>
+  <g id="iPhone_13_12_Pro_Max_9" data-name="iPhone 13, 12 Pro Max – 9" clip-path="url(#clip-iPhone_13_12_Pro_Max_9)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_1815)">
+      <path id="Path_1815-2" data-name="Path 1815" d="M389.4-311.6c-55.2,0-111.336,36.82-125.783,93,.008-.066,101.578.165,101.685,0,.144.145-37.545-40.775-37.559-40.929-.008.234,32.341-31.554,32.209-31.315.184.133,96.733,88.405,96.613,88.625-.018.151-96.442,93.844-96.4,94.026.264.582-32.461-31.923-32.488-32.163.219-.056,37.725-34.475,37.624-34.672.041.07-105.421-.021-105.5,0,5.5,47.582,41.757,80.1,95.366,80.1,65.217,0,119.7-46.353,130.092-112.109C494.969-268.481,447.883-311.6,389.4-311.6Z" transform="translate(-78.78 411.59)" fill="none" stroke="#fc4c02" stroke-width="6" opacity="0.4"/>
+    </g>
+  </g>
+</svg>
